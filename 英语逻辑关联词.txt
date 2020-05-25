@@ -22,7 +22,7 @@ Then again, we must consider the other aspects of the problem.
 3. 表转折
 but; however; yet; instead; on the other hand（另一方面）; on the contrary（相反地）; nevertheless（然而); otherwise（不然；否则）; after all(毕竟); unfortunately
 
-It’s too hot to go for a walk, let’s go swimming instead.
+It’s too hot to go for a walk, let's go swimming instead.
 
 
 4. 表时间
@@ -152,7 +152,7 @@ Your performance in the exam didn’t reach the required standard—in other wor
 
 
 17. 进行举例说明
-for instance; for example; like; such as; including
+for instance; for example; like; as; such as; including
 
 A lot of us want to leave now—Bill, for example.
 We’ve planted lots of different flowers, such as roses, carnations.
